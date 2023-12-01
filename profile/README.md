@@ -1,4 +1,4 @@
-# Stat4decision, data sience training and consulting
+# Stat4decision, data science training and consulting
 
 ## Description:
 
